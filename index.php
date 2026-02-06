@@ -8,6 +8,18 @@
   <meta name="description" content="NightShield Pest Control - Professional pest control services across the USA. Fast, safe, and effective pest removal. 24/7 emergency service available.">
   <title>NightShield Pest Control - Professional Pest Management Services USA</title>
   <link rel="stylesheet" href="css/style.css">
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,5006813,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5006813&101" alt="counter stats" border="0"></a></noscript>
+<!-- Histats.com  END  -->
 </head>
 <body>
   <!-- Header -->
